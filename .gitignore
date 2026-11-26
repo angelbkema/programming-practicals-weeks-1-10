@@ -1,0 +1,6 @@
+# Ignore local build outputs
+*.exe
+*.out
+*.o
+*.obj
+.vscode/
